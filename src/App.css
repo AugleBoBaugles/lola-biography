@@ -1,0 +1,43 @@
+body {
+  background-color: rgb(255, 255, 255);
+  color: rgb(77, 31, 31);
+}
+
+img {
+  width: 20em;
+  border-radius: 50px;
+  margin: 10px auto;
+  display: block;
+  
+}
+
+
+.profile{
+  background-color: rgb(250, 215, 215);
+  display: block;
+  width: 75%;
+  margin: 200px auto;
+  padding: 25px;
+  border-radius: 25px;
+}
+
+/* .profile-container {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  
+   
+  padding: 25px;
+
+} */
+h1, h2{
+  text-align: center;
+}
+
+
+h3 {
+  background-color: white;
+  color: rgb(211, 42, 70);
+  padding: 10px;
+  border-radius: 50px;
+}
+
