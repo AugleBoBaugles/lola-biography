@@ -17,6 +17,8 @@ function App() {
       </>
     )
   }
+
+  // displays the lola's profile
   return (
     <div className="profile">
       
